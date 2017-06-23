@@ -10,3 +10,11 @@ At the index page at Mastop Go2 is a code generator that allows your spotlights 
 
 ![](/en/assets/image007.png)
 
+
+
+![](/en/assets/image008.png)
+
+
+
+
+
