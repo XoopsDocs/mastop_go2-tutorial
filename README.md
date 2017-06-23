@@ -30,7 +30,7 @@ Tutorial Version 1.00
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/XXX-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/XXX-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/XXX-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/mastop_go2-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/mastop_go2-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/mastop_go2-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
