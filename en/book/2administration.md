@@ -4,5 +4,9 @@
 
 ![](/en/assets/image003.png)Sections or Categories
 
+
+
+![](/en/assets/image004.png)The list view of available Spotlights
+
 ![](/en/assets/image005.png)Here you can enter a new Spotlight
 
