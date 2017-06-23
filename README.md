@@ -15,7 +15,7 @@ Tutorial Version 1.00
 
 ## View it on: [![Gitbook](http://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/) 
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+© 2017 XOOPS Project ([www.xoops.org](http://xoops.org))  
 
 ## Module Purpose 
 
@@ -26,7 +26,7 @@ Tutorial Version 1.00
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/XXX))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/mastop_go2))** 
 
 ## How to Contribute
 
