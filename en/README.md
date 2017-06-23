@@ -16,14 +16,14 @@ Tutorial Version 1.00
 
 ## Module Purpose 
 
-This module is for .....
+**Mastop Go2** is a new concept in Spotlights Management for XOOPS sites, following the standards of OO development, facilitating the inclusion of new resources. Even being simple, Mastop Go2 module came to meet the basic needs for any Xoops site: Let the site more beautiful and speed up the publication of any information, may it be written or graphical.
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the Mastop_Go2 Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/XXX))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/mastop_go2))** 
 
 ## How to Contribute
 
