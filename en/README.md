@@ -1,12 +1,12 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module XXX
-#### for XOOPS 2.5.8
+# Module Mastop_Go2
+#### for XOOPS 2.5.9
 
-Module Version x.xx
+Module Version 1.04
 
-Tutorial Version x.xx
+Tutorial Version 1.00
       
 ![logoModule.png](assets/logoModule.png)
             
