@@ -1,4 +1,4 @@
 # 5.0 The User Side
 
-![](/en/assets/image007.png)
+![](/en/assets/image006.png)
 
