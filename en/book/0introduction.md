@@ -2,7 +2,7 @@
 
 **Mastop Go2**is a new concept in Spotlights Management for XOOPS sites, following the standards of OO development, facilitating the inclusion of new resources. Even being simple, Mastop Go2 module came to meet the basic needs for any Xoops site: Let the site more beautiful and speed up the publication of any information, may it be written or graphical.  
   
-**Advantages**  
+### Advantages  
 
 
 * Creation and edition of sections and spotlights in a professional way
@@ -13,7 +13,7 @@
 * Many configuration options for blocks
 * You can put yourssSpotlights anywhere
 
-**Resources**
+### Resources
 
 * **Sections registration**
  
