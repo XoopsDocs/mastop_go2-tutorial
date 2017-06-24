@@ -14,5 +14,5 @@ The list view of available Spotlights
 ![](../assets/image005.png)
 Here you can enter a new Spotlight
 
-![](../assets/image008.png)
+
 
