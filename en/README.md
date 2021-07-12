@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module Mastop_Go2
 #### for XOOPS 2.5.9
@@ -8,17 +8,17 @@ Module Version 1.04
 
 Tutorial Version 1.00
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Module Purpose 
 
 **Mastop Go2** is a new concept in Spotlights Management for XOOPS sites, following the standards of OO development, facilitating the inclusion of new resources. Even being simple, Mastop Go2 module came to meet the basic needs for any Xoops site: Let the site more beautiful and speed up the publication of any information, may it be written or graphical.
 
-![image001.png](assets/image001.png)
+![](assets/image001.png)
 *Figure 1: Main view of the Mastop_Go2 Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
@@ -45,7 +45,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
